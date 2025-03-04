@@ -1,0 +1,24 @@
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\bin\Debug\VTYS PROJE.exe.config
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\bin\Debug\VTYS PROJE.exe
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\bin\Debug\VTYS PROJE.pdb
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.AssemblyReference.cache
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS_PROJE.Properties.Resources.resources
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.GenerateResource.cache
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.CoreCompileInputs.cache
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS PROJE.exe
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS PROJE.pdb
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS_PROJE.GirisEkrani.resources
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS_PROJE.SqlBaglanti.resources
+C:\Users\glsmn\source\repos\VTYS PROJE\VTYS PROJE\obj\Debug\VTYS_PROJE.Raporlama.resources
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\bin\Debug\VTYS PROJE.exe.config
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\bin\Debug\VTYS PROJE.exe
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\bin\Debug\VTYS PROJE.pdb
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.AssemblyReference.cache
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS_PROJE.GirisEkrani.resources
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS_PROJE.Properties.Resources.resources
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS_PROJE.Raporlama.resources
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS_PROJE.SqlBaglanti.resources
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.GenerateResource.cache
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS PROJE.csproj.CoreCompileInputs.cache
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS PROJE.exe
+C:\Users\glsmn\OneDrive\Masaüstü\VTYS PROJE\C#\VTYS PROJE\obj\Debug\VTYS PROJE.pdb
